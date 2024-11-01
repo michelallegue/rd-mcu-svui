@@ -1,0 +1,6 @@
+/.settings/
+/Debug/
+*.xml
+*.launch
+/Debug_WiFi/
+/Debug_AWS_OTA/

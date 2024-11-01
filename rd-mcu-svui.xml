@@ -1,0 +1,39 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="rd-mcu-svui" type="ref_design" format="projectfile" versionSchema="1.0.0" name="mcu svui">
+    <display_title>
+        i.MX RT106V Based Smart Voice User Interface Solution
+    </display_title>
+    <overview>
+        <![CDATA[This NXP EdgeReady solution for both local and online voice control leverages the i.MX RT106V crossover MCU, with integrated Voice Intelligent Technology (VIT) Speech to Intent offering a natural voice user interface for touchless applications. This ultra-small form-factor, production ready hardware design comes with fully integrated software running on FreeRTOS, for quick out-of-the-box evaluation and proof of concept development. This turnkey solution minimizes time to market, risk, and development effort enabling OEMs to easily add voice to their smart home and smart appliance products. This NXP EdgeReady solution is part of the EdgeVerse™ edge computing platform. The October 2024 software update enables Wifi connectivity and incorporates the Matter interoperability standard for IoT devices along with NXP’s proprietary Speech to Intent (S2I) natural language voice control for the edge. With this upgrade, developers can now use RT106V to design Matter connected IoT nodes and control any node on the system with natural voice commands.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"></toolchain>
+    </toolchains>
+    <families>
+        <family name="imxrt"></family>
+    </families>
+    <nxp_compatible_hw>
+        <custom_hw></custom_hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="usb"></peripheral>
+        <peripheral name="uart"></peripheral>
+        <peripheral name="spi"></peripheral>
+        <peripheral name="sdmmc"></peripheral>
+        <peripheral name="sdio"></peripheral>
+        <peripheral name="sai"></peripheral>
+        <peripheral name="pwm"></peripheral>
+        <peripheral name="i2s"></peripheral>
+        <peripheral name="gpio"></peripheral>
+        <peripheral name="flexio"></peripheral>
+        <peripheral name="flash"></peripheral>
+        <peripheral name="dma"></peripheral>
+        <peripheral name="clocks"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="voice"></category>
+        <category name="audio"></category>
+        <category name="hmi"></category>
+        <category name="rtos"></category>
+        <category name="ui"></category>
+    </categories>
+</data:item>

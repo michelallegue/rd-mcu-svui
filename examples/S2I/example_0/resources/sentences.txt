@@ -1,0 +1,1455 @@
+start music
+start
+stop music
+stop
+pause music
+pause
+play music
+play
+next song
+next
+previous song
+previous
+set the music volume to max
+set the music volume to maximum
+set the music volume to one hundred
+set the music volume to min
+set the music volume to minimum
+set the sound volume to max
+set the sound volume to maximum
+set the sound volume to one hundred
+set the sound volume to min
+set the sound volume to minimum
+set the volume to max
+set the volume to maximum
+set the volume to one hundred
+set the volume to min
+set the volume to minimum
+set music volume to max
+set music volume to maximum
+set music volume to one hundred
+set music volume to min
+set music volume to minimum
+set sound volume to max
+set sound volume to maximum
+set sound volume to one hundred
+set sound volume to min
+set sound volume to minimum
+set volume to max
+set volume to maximum
+set volume to one hundred
+set volume to min
+set volume to minimum
+put the music volume to max
+put the music volume to maximum
+put the music volume to one hundred
+put the music volume to min
+put the music volume to minimum
+put the sound volume to max
+put the sound volume to maximum
+put the sound volume to one hundred
+put the sound volume to min
+put the sound volume to minimum
+put the volume to max
+put the volume to maximum
+put the volume to one hundred
+put the volume to min
+put the volume to minimum
+put music volume to max
+put music volume to maximum
+put music volume to one hundred
+put music volume to min
+put music volume to minimum
+put sound volume to max
+put sound volume to maximum
+put sound volume to one hundred
+put sound volume to min
+put sound volume to minimum
+put volume to max
+put volume to maximum
+put volume to one hundred
+put volume to min
+put volume to minimum
+change the music volume to max
+change the music volume to maximum
+change the music volume to one hundred
+change the music volume to min
+change the music volume to minimum
+change the sound volume to max
+change the sound volume to maximum
+change the sound volume to one hundred
+change the sound volume to min
+change the sound volume to minimum
+change the volume to max
+change the volume to maximum
+change the volume to one hundred
+change the volume to min
+change the volume to minimum
+change music volume to max
+change music volume to maximum
+change music volume to one hundred
+change music volume to min
+change music volume to minimum
+change sound volume to max
+change sound volume to maximum
+change sound volume to one hundred
+change sound volume to min
+change sound volume to minimum
+change volume to max
+change volume to maximum
+change volume to one hundred
+change volume to min
+change volume to minimum
+adjust the music volume to max
+adjust the music volume to maximum
+adjust the music volume to one hundred
+adjust the music volume to min
+adjust the music volume to minimum
+adjust the sound volume to max
+adjust the sound volume to maximum
+adjust the sound volume to one hundred
+adjust the sound volume to min
+adjust the sound volume to minimum
+adjust the volume to max
+adjust the volume to maximum
+adjust the volume to one hundred
+adjust the volume to min
+adjust the volume to minimum
+adjust music volume to max
+adjust music volume to maximum
+adjust music volume to one hundred
+adjust music volume to min
+adjust music volume to minimum
+adjust sound volume to max
+adjust sound volume to maximum
+adjust sound volume to one hundred
+adjust sound volume to min
+adjust sound volume to minimum
+adjust volume to max
+adjust volume to maximum
+adjust volume to one hundred
+adjust volume to min
+adjust volume to minimum
+turn the music volume to max
+turn the music volume to maximum
+turn the music volume to one hundred
+turn the music volume to min
+turn the music volume to minimum
+turn the sound volume to max
+turn the sound volume to maximum
+turn the sound volume to one hundred
+turn the sound volume to min
+turn the sound volume to minimum
+turn the volume to max
+turn the volume to maximum
+turn the volume to one hundred
+turn the volume to min
+turn the volume to minimum
+turn music volume to max
+turn music volume to maximum
+turn music volume to one hundred
+turn music volume to min
+turn music volume to minimum
+turn sound volume to max
+turn sound volume to maximum
+turn sound volume to one hundred
+turn sound volume to min
+turn sound volume to minimum
+turn volume to max
+turn volume to maximum
+turn volume to one hundred
+turn volume to min
+turn volume to minimum
+music volume to max
+music volume to maximum
+music volume to one hundred
+music volume to min
+music volume to minimum
+sound volume to max
+sound volume to maximum
+sound volume to one hundred
+sound volume to min
+sound volume to minimum
+volume to max
+volume to maximum
+volume to one hundred
+volume to min
+volume to minimum
+set the music to max
+set the music to maximum
+set the music to one hundred
+set the music to min
+set the music to minimum
+set the sound to max
+set the sound to maximum
+set the sound to one hundred
+set the sound to min
+set the sound to minimum
+set the to max
+set the to maximum
+set the to one hundred
+set the to min
+set the to minimum
+set music to max
+set music to maximum
+set music to one hundred
+set music to min
+set music to minimum
+set sound to max
+set sound to maximum
+set sound to one hundred
+set sound to min
+set sound to minimum
+set to max
+set to maximum
+set to one hundred
+set to min
+set to minimum
+put the music to max
+put the music to maximum
+put the music to one hundred
+put the music to min
+put the music to minimum
+put the sound to max
+put the sound to maximum
+put the sound to one hundred
+put the sound to min
+put the sound to minimum
+put the to max
+put the to maximum
+put the to one hundred
+put the to min
+put the to minimum
+put music to max
+put music to maximum
+put music to one hundred
+put music to min
+put music to minimum
+put sound to max
+put sound to maximum
+put sound to one hundred
+put sound to min
+put sound to minimum
+put to max
+put to maximum
+put to one hundred
+put to min
+put to minimum
+change the music to max
+change the music to maximum
+change the music to one hundred
+change the music to min
+change the music to minimum
+change the sound to max
+change the sound to maximum
+change the sound to one hundred
+change the sound to min
+change the sound to minimum
+change the to max
+change the to maximum
+change the to one hundred
+change the to min
+change the to minimum
+change music to max
+change music to maximum
+change music to one hundred
+change music to min
+change music to minimum
+change sound to max
+change sound to maximum
+change sound to one hundred
+change sound to min
+change sound to minimum
+change to max
+change to maximum
+change to one hundred
+change to min
+change to minimum
+adjust the music to max
+adjust the music to maximum
+adjust the music to one hundred
+adjust the music to min
+adjust the music to minimum
+adjust the sound to max
+adjust the sound to maximum
+adjust the sound to one hundred
+adjust the sound to min
+adjust the sound to minimum
+adjust the to max
+adjust the to maximum
+adjust the to one hundred
+adjust the to min
+adjust the to minimum
+adjust music to max
+adjust music to maximum
+adjust music to one hundred
+adjust music to min
+adjust music to minimum
+adjust sound to max
+adjust sound to maximum
+adjust sound to one hundred
+adjust sound to min
+adjust sound to minimum
+adjust to max
+adjust to maximum
+adjust to one hundred
+adjust to min
+adjust to minimum
+turn the music to max
+turn the music to maximum
+turn the music to one hundred
+turn the music to min
+turn the music to minimum
+turn the sound to max
+turn the sound to maximum
+turn the sound to one hundred
+turn the sound to min
+turn the sound to minimum
+turn the to max
+turn the to maximum
+turn the to one hundred
+turn the to min
+turn the to minimum
+turn music to max
+turn music to maximum
+turn music to one hundred
+turn music to min
+turn music to minimum
+turn sound to max
+turn sound to maximum
+turn sound to one hundred
+turn sound to min
+turn sound to minimum
+turn to max
+turn to maximum
+turn to one hundred
+turn to min
+turn to minimum
+set the music to ten
+set the music to twenty
+set the music to thirty
+set the music to forty
+set the music to fifty
+set the music to sixty
+set the music to seventy
+set the music to eighty
+set the music to ninety
+set the sound to ten
+set the sound to twenty
+set the sound to thirty
+set the sound to forty
+set the sound to fifty
+set the sound to sixty
+set the sound to seventy
+set the sound to eighty
+set the sound to ninety
+set the to ten
+set the to twenty
+set the to thirty
+set the to forty
+set the to fifty
+set the to sixty
+set the to seventy
+set the to eighty
+set the to ninety
+set music to ten
+set music to twenty
+set music to thirty
+set music to forty
+set music to fifty
+set music to sixty
+set music to seventy
+set music to eighty
+set music to ninety
+set sound to ten
+set sound to twenty
+set sound to thirty
+set sound to forty
+set sound to fifty
+set sound to sixty
+set sound to seventy
+set sound to eighty
+set sound to ninety
+set to ten
+set to twenty
+set to thirty
+set to forty
+set to fifty
+set to sixty
+set to seventy
+set to eighty
+set to ninety
+put the music to ten
+put the music to twenty
+put the music to thirty
+put the music to forty
+put the music to fifty
+put the music to sixty
+put the music to seventy
+put the music to eighty
+put the music to ninety
+put the sound to ten
+put the sound to twenty
+put the sound to thirty
+put the sound to forty
+put the sound to fifty
+put the sound to sixty
+put the sound to seventy
+put the sound to eighty
+put the sound to ninety
+put the to ten
+put the to twenty
+put the to thirty
+put the to forty
+put the to fifty
+put the to sixty
+put the to seventy
+put the to eighty
+put the to ninety
+put music to ten
+put music to twenty
+put music to thirty
+put music to forty
+put music to fifty
+put music to sixty
+put music to seventy
+put music to eighty
+put music to ninety
+put sound to ten
+put sound to twenty
+put sound to thirty
+put sound to forty
+put sound to fifty
+put sound to sixty
+put sound to seventy
+put sound to eighty
+put sound to ninety
+put to ten
+put to twenty
+put to thirty
+put to forty
+put to fifty
+put to sixty
+put to seventy
+put to eighty
+put to ninety
+change the music to ten
+change the music to twenty
+change the music to thirty
+change the music to forty
+change the music to fifty
+change the music to sixty
+change the music to seventy
+change the music to eighty
+change the music to ninety
+change the sound to ten
+change the sound to twenty
+change the sound to thirty
+change the sound to forty
+change the sound to fifty
+change the sound to sixty
+change the sound to seventy
+change the sound to eighty
+change the sound to ninety
+change the to ten
+change the to twenty
+change the to thirty
+change the to forty
+change the to fifty
+change the to sixty
+change the to seventy
+change the to eighty
+change the to ninety
+change music to ten
+change music to twenty
+change music to thirty
+change music to forty
+change music to fifty
+change music to sixty
+change music to seventy
+change music to eighty
+change music to ninety
+change sound to ten
+change sound to twenty
+change sound to thirty
+change sound to forty
+change sound to fifty
+change sound to sixty
+change sound to seventy
+change sound to eighty
+change sound to ninety
+change to ten
+change to twenty
+change to thirty
+change to forty
+change to fifty
+change to sixty
+change to seventy
+change to eighty
+change to ninety
+adjust the music to ten
+adjust the music to twenty
+adjust the music to thirty
+adjust the music to forty
+adjust the music to fifty
+adjust the music to sixty
+adjust the music to seventy
+adjust the music to eighty
+adjust the music to ninety
+adjust the sound to ten
+adjust the sound to twenty
+adjust the sound to thirty
+adjust the sound to forty
+adjust the sound to fifty
+adjust the sound to sixty
+adjust the sound to seventy
+adjust the sound to eighty
+adjust the sound to ninety
+adjust the to ten
+adjust the to twenty
+adjust the to thirty
+adjust the to forty
+adjust the to fifty
+adjust the to sixty
+adjust the to seventy
+adjust the to eighty
+adjust the to ninety
+adjust music to ten
+adjust music to twenty
+adjust music to thirty
+adjust music to forty
+adjust music to fifty
+adjust music to sixty
+adjust music to seventy
+adjust music to eighty
+adjust music to ninety
+adjust sound to ten
+adjust sound to twenty
+adjust sound to thirty
+adjust sound to forty
+adjust sound to fifty
+adjust sound to sixty
+adjust sound to seventy
+adjust sound to eighty
+adjust sound to ninety
+adjust to ten
+adjust to twenty
+adjust to thirty
+adjust to forty
+adjust to fifty
+adjust to sixty
+adjust to seventy
+adjust to eighty
+adjust to ninety
+turn the music to ten
+turn the music to twenty
+turn the music to thirty
+turn the music to forty
+turn the music to fifty
+turn the music to sixty
+turn the music to seventy
+turn the music to eighty
+turn the music to ninety
+turn the sound to ten
+turn the sound to twenty
+turn the sound to thirty
+turn the sound to forty
+turn the sound to fifty
+turn the sound to sixty
+turn the sound to seventy
+turn the sound to eighty
+turn the sound to ninety
+turn the to ten
+turn the to twenty
+turn the to thirty
+turn the to forty
+turn the to fifty
+turn the to sixty
+turn the to seventy
+turn the to eighty
+turn the to ninety
+turn music to ten
+turn music to twenty
+turn music to thirty
+turn music to forty
+turn music to fifty
+turn music to sixty
+turn music to seventy
+turn music to eighty
+turn music to ninety
+turn sound to ten
+turn sound to twenty
+turn sound to thirty
+turn sound to forty
+turn sound to fifty
+turn sound to sixty
+turn sound to seventy
+turn sound to eighty
+turn sound to ninety
+turn to ten
+turn to twenty
+turn to thirty
+turn to forty
+turn to fifty
+turn to sixty
+turn to seventy
+turn to eighty
+turn to ninety
+turn up the music volume by ten percent
+turn up the music volume by ten
+turn up the music volume by twenty percent
+turn up the music volume by twenty
+turn up the music volume by thirty percent
+turn up the music volume by thirty
+turn up the music volume by forty percent
+turn up the music volume by forty
+turn up the music volume by fifty percent
+turn up the music volume by fifty
+turn up the music volume by sixty percent
+turn up the music volume by sixty
+turn up the music volume by seventy percent
+turn up the music volume by seventy
+turn up the music volume by eighty percent
+turn up the music volume by eighty
+turn up the music volume by ninety percent
+turn up the music volume by ninety
+turn up the sound volume by ten percent
+turn up the sound volume by ten
+turn up the sound volume by twenty percent
+turn up the sound volume by twenty
+turn up the sound volume by thirty percent
+turn up the sound volume by thirty
+turn up the sound volume by forty percent
+turn up the sound volume by forty
+turn up the sound volume by fifty percent
+turn up the sound volume by fifty
+turn up the sound volume by sixty percent
+turn up the sound volume by sixty
+turn up the sound volume by seventy percent
+turn up the sound volume by seventy
+turn up the sound volume by eighty percent
+turn up the sound volume by eighty
+turn up the sound volume by ninety percent
+turn up the sound volume by ninety
+turn up the volume by ten percent
+turn up the volume by ten
+turn up the volume by twenty percent
+turn up the volume by twenty
+turn up the volume by thirty percent
+turn up the volume by thirty
+turn up the volume by forty percent
+turn up the volume by forty
+turn up the volume by fifty percent
+turn up the volume by fifty
+turn up the volume by sixty percent
+turn up the volume by sixty
+turn up the volume by seventy percent
+turn up the volume by seventy
+turn up the volume by eighty percent
+turn up the volume by eighty
+turn up the volume by ninety percent
+turn up the volume by ninety
+turn up music volume by ten percent
+turn up music volume by ten
+turn up music volume by twenty percent
+turn up music volume by twenty
+turn up music volume by thirty percent
+turn up music volume by thirty
+turn up music volume by forty percent
+turn up music volume by forty
+turn up music volume by fifty percent
+turn up music volume by fifty
+turn up music volume by sixty percent
+turn up music volume by sixty
+turn up music volume by seventy percent
+turn up music volume by seventy
+turn up music volume by eighty percent
+turn up music volume by eighty
+turn up music volume by ninety percent
+turn up music volume by ninety
+turn up sound volume by ten percent
+turn up sound volume by ten
+turn up sound volume by twenty percent
+turn up sound volume by twenty
+turn up sound volume by thirty percent
+turn up sound volume by thirty
+turn up sound volume by forty percent
+turn up sound volume by forty
+turn up sound volume by fifty percent
+turn up sound volume by fifty
+turn up sound volume by sixty percent
+turn up sound volume by sixty
+turn up sound volume by seventy percent
+turn up sound volume by seventy
+turn up sound volume by eighty percent
+turn up sound volume by eighty
+turn up sound volume by ninety percent
+turn up sound volume by ninety
+turn up volume by ten percent
+turn up volume by ten
+turn up volume by twenty percent
+turn up volume by twenty
+turn up volume by thirty percent
+turn up volume by thirty
+turn up volume by forty percent
+turn up volume by forty
+turn up volume by fifty percent
+turn up volume by fifty
+turn up volume by sixty percent
+turn up volume by sixty
+turn up volume by seventy percent
+turn up volume by seventy
+turn up volume by eighty percent
+turn up volume by eighty
+turn up volume by ninety percent
+turn up volume by ninety
+raise the music volume by ten percent
+raise the music volume by ten
+raise the music volume by twenty percent
+raise the music volume by twenty
+raise the music volume by thirty percent
+raise the music volume by thirty
+raise the music volume by forty percent
+raise the music volume by forty
+raise the music volume by fifty percent
+raise the music volume by fifty
+raise the music volume by sixty percent
+raise the music volume by sixty
+raise the music volume by seventy percent
+raise the music volume by seventy
+raise the music volume by eighty percent
+raise the music volume by eighty
+raise the music volume by ninety percent
+raise the music volume by ninety
+raise the sound volume by ten percent
+raise the sound volume by ten
+raise the sound volume by twenty percent
+raise the sound volume by twenty
+raise the sound volume by thirty percent
+raise the sound volume by thirty
+raise the sound volume by forty percent
+raise the sound volume by forty
+raise the sound volume by fifty percent
+raise the sound volume by fifty
+raise the sound volume by sixty percent
+raise the sound volume by sixty
+raise the sound volume by seventy percent
+raise the sound volume by seventy
+raise the sound volume by eighty percent
+raise the sound volume by eighty
+raise the sound volume by ninety percent
+raise the sound volume by ninety
+raise the volume by ten percent
+raise the volume by ten
+raise the volume by twenty percent
+raise the volume by twenty
+raise the volume by thirty percent
+raise the volume by thirty
+raise the volume by forty percent
+raise the volume by forty
+raise the volume by fifty percent
+raise the volume by fifty
+raise the volume by sixty percent
+raise the volume by sixty
+raise the volume by seventy percent
+raise the volume by seventy
+raise the volume by eighty percent
+raise the volume by eighty
+raise the volume by ninety percent
+raise the volume by ninety
+raise music volume by ten percent
+raise music volume by ten
+raise music volume by twenty percent
+raise music volume by twenty
+raise music volume by thirty percent
+raise music volume by thirty
+raise music volume by forty percent
+raise music volume by forty
+raise music volume by fifty percent
+raise music volume by fifty
+raise music volume by sixty percent
+raise music volume by sixty
+raise music volume by seventy percent
+raise music volume by seventy
+raise music volume by eighty percent
+raise music volume by eighty
+raise music volume by ninety percent
+raise music volume by ninety
+raise sound volume by ten percent
+raise sound volume by ten
+raise sound volume by twenty percent
+raise sound volume by twenty
+raise sound volume by thirty percent
+raise sound volume by thirty
+raise sound volume by forty percent
+raise sound volume by forty
+raise sound volume by fifty percent
+raise sound volume by fifty
+raise sound volume by sixty percent
+raise sound volume by sixty
+raise sound volume by seventy percent
+raise sound volume by seventy
+raise sound volume by eighty percent
+raise sound volume by eighty
+raise sound volume by ninety percent
+raise sound volume by ninety
+raise volume by ten percent
+raise volume by ten
+raise volume by twenty percent
+raise volume by twenty
+raise volume by thirty percent
+raise volume by thirty
+raise volume by forty percent
+raise volume by forty
+raise volume by fifty percent
+raise volume by fifty
+raise volume by sixty percent
+raise volume by sixty
+raise volume by seventy percent
+raise volume by seventy
+raise volume by eighty percent
+raise volume by eighty
+raise volume by ninety percent
+raise volume by ninety
+increase the music volume by ten percent
+increase the music volume by ten
+increase the music volume by twenty percent
+increase the music volume by twenty
+increase the music volume by thirty percent
+increase the music volume by thirty
+increase the music volume by forty percent
+increase the music volume by forty
+increase the music volume by fifty percent
+increase the music volume by fifty
+increase the music volume by sixty percent
+increase the music volume by sixty
+increase the music volume by seventy percent
+increase the music volume by seventy
+increase the music volume by eighty percent
+increase the music volume by eighty
+increase the music volume by ninety percent
+increase the music volume by ninety
+increase the sound volume by ten percent
+increase the sound volume by ten
+increase the sound volume by twenty percent
+increase the sound volume by twenty
+increase the sound volume by thirty percent
+increase the sound volume by thirty
+increase the sound volume by forty percent
+increase the sound volume by forty
+increase the sound volume by fifty percent
+increase the sound volume by fifty
+increase the sound volume by sixty percent
+increase the sound volume by sixty
+increase the sound volume by seventy percent
+increase the sound volume by seventy
+increase the sound volume by eighty percent
+increase the sound volume by eighty
+increase the sound volume by ninety percent
+increase the sound volume by ninety
+increase the volume by ten percent
+increase the volume by ten
+increase the volume by twenty percent
+increase the volume by twenty
+increase the volume by thirty percent
+increase the volume by thirty
+increase the volume by forty percent
+increase the volume by forty
+increase the volume by fifty percent
+increase the volume by fifty
+increase the volume by sixty percent
+increase the volume by sixty
+increase the volume by seventy percent
+increase the volume by seventy
+increase the volume by eighty percent
+increase the volume by eighty
+increase the volume by ninety percent
+increase the volume by ninety
+increase music volume by ten percent
+increase music volume by ten
+increase music volume by twenty percent
+increase music volume by twenty
+increase music volume by thirty percent
+increase music volume by thirty
+increase music volume by forty percent
+increase music volume by forty
+increase music volume by fifty percent
+increase music volume by fifty
+increase music volume by sixty percent
+increase music volume by sixty
+increase music volume by seventy percent
+increase music volume by seventy
+increase music volume by eighty percent
+increase music volume by eighty
+increase music volume by ninety percent
+increase music volume by ninety
+increase sound volume by ten percent
+increase sound volume by ten
+increase sound volume by twenty percent
+increase sound volume by twenty
+increase sound volume by thirty percent
+increase sound volume by thirty
+increase sound volume by forty percent
+increase sound volume by forty
+increase sound volume by fifty percent
+increase sound volume by fifty
+increase sound volume by sixty percent
+increase sound volume by sixty
+increase sound volume by seventy percent
+increase sound volume by seventy
+increase sound volume by eighty percent
+increase sound volume by eighty
+increase sound volume by ninety percent
+increase sound volume by ninety
+increase volume by ten percent
+increase volume by ten
+increase volume by twenty percent
+increase volume by twenty
+increase volume by thirty percent
+increase volume by thirty
+increase volume by forty percent
+increase volume by forty
+increase volume by fifty percent
+increase volume by fifty
+increase volume by sixty percent
+increase volume by sixty
+increase volume by seventy percent
+increase volume by seventy
+increase volume by eighty percent
+increase volume by eighty
+increase volume by ninety percent
+increase volume by ninety
+turn down the music volume by ten percent
+turn down the music volume by ten
+turn down the music volume by twenty percent
+turn down the music volume by twenty
+turn down the music volume by thirty percent
+turn down the music volume by thirty
+turn down the music volume by forty percent
+turn down the music volume by forty
+turn down the music volume by fifty percent
+turn down the music volume by fifty
+turn down the music volume by sixty percent
+turn down the music volume by sixty
+turn down the music volume by seventy percent
+turn down the music volume by seventy
+turn down the music volume by eighty percent
+turn down the music volume by eighty
+turn down the music volume by ninety percent
+turn down the music volume by ninety
+turn down the sound volume by ten percent
+turn down the sound volume by ten
+turn down the sound volume by twenty percent
+turn down the sound volume by twenty
+turn down the sound volume by thirty percent
+turn down the sound volume by thirty
+turn down the sound volume by forty percent
+turn down the sound volume by forty
+turn down the sound volume by fifty percent
+turn down the sound volume by fifty
+turn down the sound volume by sixty percent
+turn down the sound volume by sixty
+turn down the sound volume by seventy percent
+turn down the sound volume by seventy
+turn down the sound volume by eighty percent
+turn down the sound volume by eighty
+turn down the sound volume by ninety percent
+turn down the sound volume by ninety
+turn down the volume by ten percent
+turn down the volume by ten
+turn down the volume by twenty percent
+turn down the volume by twenty
+turn down the volume by thirty percent
+turn down the volume by thirty
+turn down the volume by forty percent
+turn down the volume by forty
+turn down the volume by fifty percent
+turn down the volume by fifty
+turn down the volume by sixty percent
+turn down the volume by sixty
+turn down the volume by seventy percent
+turn down the volume by seventy
+turn down the volume by eighty percent
+turn down the volume by eighty
+turn down the volume by ninety percent
+turn down the volume by ninety
+turn down music volume by ten percent
+turn down music volume by ten
+turn down music volume by twenty percent
+turn down music volume by twenty
+turn down music volume by thirty percent
+turn down music volume by thirty
+turn down music volume by forty percent
+turn down music volume by forty
+turn down music volume by fifty percent
+turn down music volume by fifty
+turn down music volume by sixty percent
+turn down music volume by sixty
+turn down music volume by seventy percent
+turn down music volume by seventy
+turn down music volume by eighty percent
+turn down music volume by eighty
+turn down music volume by ninety percent
+turn down music volume by ninety
+turn down sound volume by ten percent
+turn down sound volume by ten
+turn down sound volume by twenty percent
+turn down sound volume by twenty
+turn down sound volume by thirty percent
+turn down sound volume by thirty
+turn down sound volume by forty percent
+turn down sound volume by forty
+turn down sound volume by fifty percent
+turn down sound volume by fifty
+turn down sound volume by sixty percent
+turn down sound volume by sixty
+turn down sound volume by seventy percent
+turn down sound volume by seventy
+turn down sound volume by eighty percent
+turn down sound volume by eighty
+turn down sound volume by ninety percent
+turn down sound volume by ninety
+turn down volume by ten percent
+turn down volume by ten
+turn down volume by twenty percent
+turn down volume by twenty
+turn down volume by thirty percent
+turn down volume by thirty
+turn down volume by forty percent
+turn down volume by forty
+turn down volume by fifty percent
+turn down volume by fifty
+turn down volume by sixty percent
+turn down volume by sixty
+turn down volume by seventy percent
+turn down volume by seventy
+turn down volume by eighty percent
+turn down volume by eighty
+turn down volume by ninety percent
+turn down volume by ninety
+reduce the music volume by ten percent
+reduce the music volume by ten
+reduce the music volume by twenty percent
+reduce the music volume by twenty
+reduce the music volume by thirty percent
+reduce the music volume by thirty
+reduce the music volume by forty percent
+reduce the music volume by forty
+reduce the music volume by fifty percent
+reduce the music volume by fifty
+reduce the music volume by sixty percent
+reduce the music volume by sixty
+reduce the music volume by seventy percent
+reduce the music volume by seventy
+reduce the music volume by eighty percent
+reduce the music volume by eighty
+reduce the music volume by ninety percent
+reduce the music volume by ninety
+reduce the sound volume by ten percent
+reduce the sound volume by ten
+reduce the sound volume by twenty percent
+reduce the sound volume by twenty
+reduce the sound volume by thirty percent
+reduce the sound volume by thirty
+reduce the sound volume by forty percent
+reduce the sound volume by forty
+reduce the sound volume by fifty percent
+reduce the sound volume by fifty
+reduce the sound volume by sixty percent
+reduce the sound volume by sixty
+reduce the sound volume by seventy percent
+reduce the sound volume by seventy
+reduce the sound volume by eighty percent
+reduce the sound volume by eighty
+reduce the sound volume by ninety percent
+reduce the sound volume by ninety
+reduce the volume by ten percent
+reduce the volume by ten
+reduce the volume by twenty percent
+reduce the volume by twenty
+reduce the volume by thirty percent
+reduce the volume by thirty
+reduce the volume by forty percent
+reduce the volume by forty
+reduce the volume by fifty percent
+reduce the volume by fifty
+reduce the volume by sixty percent
+reduce the volume by sixty
+reduce the volume by seventy percent
+reduce the volume by seventy
+reduce the volume by eighty percent
+reduce the volume by eighty
+reduce the volume by ninety percent
+reduce the volume by ninety
+reduce music volume by ten percent
+reduce music volume by ten
+reduce music volume by twenty percent
+reduce music volume by twenty
+reduce music volume by thirty percent
+reduce music volume by thirty
+reduce music volume by forty percent
+reduce music volume by forty
+reduce music volume by fifty percent
+reduce music volume by fifty
+reduce music volume by sixty percent
+reduce music volume by sixty
+reduce music volume by seventy percent
+reduce music volume by seventy
+reduce music volume by eighty percent
+reduce music volume by eighty
+reduce music volume by ninety percent
+reduce music volume by ninety
+reduce sound volume by ten percent
+reduce sound volume by ten
+reduce sound volume by twenty percent
+reduce sound volume by twenty
+reduce sound volume by thirty percent
+reduce sound volume by thirty
+reduce sound volume by forty percent
+reduce sound volume by forty
+reduce sound volume by fifty percent
+reduce sound volume by fifty
+reduce sound volume by sixty percent
+reduce sound volume by sixty
+reduce sound volume by seventy percent
+reduce sound volume by seventy
+reduce sound volume by eighty percent
+reduce sound volume by eighty
+reduce sound volume by ninety percent
+reduce sound volume by ninety
+reduce volume by ten percent
+reduce volume by ten
+reduce volume by twenty percent
+reduce volume by twenty
+reduce volume by thirty percent
+reduce volume by thirty
+reduce volume by forty percent
+reduce volume by forty
+reduce volume by fifty percent
+reduce volume by fifty
+reduce volume by sixty percent
+reduce volume by sixty
+reduce volume by seventy percent
+reduce volume by seventy
+reduce volume by eighty percent
+reduce volume by eighty
+reduce volume by ninety percent
+reduce volume by ninety
+decrease the music volume by ten percent
+decrease the music volume by ten
+decrease the music volume by twenty percent
+decrease the music volume by twenty
+decrease the music volume by thirty percent
+decrease the music volume by thirty
+decrease the music volume by forty percent
+decrease the music volume by forty
+decrease the music volume by fifty percent
+decrease the music volume by fifty
+decrease the music volume by sixty percent
+decrease the music volume by sixty
+decrease the music volume by seventy percent
+decrease the music volume by seventy
+decrease the music volume by eighty percent
+decrease the music volume by eighty
+decrease the music volume by ninety percent
+decrease the music volume by ninety
+decrease the sound volume by ten percent
+decrease the sound volume by ten
+decrease the sound volume by twenty percent
+decrease the sound volume by twenty
+decrease the sound volume by thirty percent
+decrease the sound volume by thirty
+decrease the sound volume by forty percent
+decrease the sound volume by forty
+decrease the sound volume by fifty percent
+decrease the sound volume by fifty
+decrease the sound volume by sixty percent
+decrease the sound volume by sixty
+decrease the sound volume by seventy percent
+decrease the sound volume by seventy
+decrease the sound volume by eighty percent
+decrease the sound volume by eighty
+decrease the sound volume by ninety percent
+decrease the sound volume by ninety
+decrease the volume by ten percent
+decrease the volume by ten
+decrease the volume by twenty percent
+decrease the volume by twenty
+decrease the volume by thirty percent
+decrease the volume by thirty
+decrease the volume by forty percent
+decrease the volume by forty
+decrease the volume by fifty percent
+decrease the volume by fifty
+decrease the volume by sixty percent
+decrease the volume by sixty
+decrease the volume by seventy percent
+decrease the volume by seventy
+decrease the volume by eighty percent
+decrease the volume by eighty
+decrease the volume by ninety percent
+decrease the volume by ninety
+decrease music volume by ten percent
+decrease music volume by ten
+decrease music volume by twenty percent
+decrease music volume by twenty
+decrease music volume by thirty percent
+decrease music volume by thirty
+decrease music volume by forty percent
+decrease music volume by forty
+decrease music volume by fifty percent
+decrease music volume by fifty
+decrease music volume by sixty percent
+decrease music volume by sixty
+decrease music volume by seventy percent
+decrease music volume by seventy
+decrease music volume by eighty percent
+decrease music volume by eighty
+decrease music volume by ninety percent
+decrease music volume by ninety
+decrease sound volume by ten percent
+decrease sound volume by ten
+decrease sound volume by twenty percent
+decrease sound volume by twenty
+decrease sound volume by thirty percent
+decrease sound volume by thirty
+decrease sound volume by forty percent
+decrease sound volume by forty
+decrease sound volume by fifty percent
+decrease sound volume by fifty
+decrease sound volume by sixty percent
+decrease sound volume by sixty
+decrease sound volume by seventy percent
+decrease sound volume by seventy
+decrease sound volume by eighty percent
+decrease sound volume by eighty
+decrease sound volume by ninety percent
+decrease sound volume by ninety
+decrease volume by ten percent
+decrease volume by ten
+decrease volume by twenty percent
+decrease volume by twenty
+decrease volume by thirty percent
+decrease volume by thirty
+decrease volume by forty percent
+decrease volume by forty
+decrease volume by fifty percent
+decrease volume by fifty
+decrease volume by sixty percent
+decrease volume by sixty
+decrease volume by seventy percent
+decrease volume by seventy
+decrease volume by eighty percent
+decrease volume by eighty
+decrease volume by ninety percent
+decrease volume by ninety
+lower the music volume by ten percent
+lower the music volume by ten
+lower the music volume by twenty percent
+lower the music volume by twenty
+lower the music volume by thirty percent
+lower the music volume by thirty
+lower the music volume by forty percent
+lower the music volume by forty
+lower the music volume by fifty percent
+lower the music volume by fifty
+lower the music volume by sixty percent
+lower the music volume by sixty
+lower the music volume by seventy percent
+lower the music volume by seventy
+lower the music volume by eighty percent
+lower the music volume by eighty
+lower the music volume by ninety percent
+lower the music volume by ninety
+lower the sound volume by ten percent
+lower the sound volume by ten
+lower the sound volume by twenty percent
+lower the sound volume by twenty
+lower the sound volume by thirty percent
+lower the sound volume by thirty
+lower the sound volume by forty percent
+lower the sound volume by forty
+lower the sound volume by fifty percent
+lower the sound volume by fifty
+lower the sound volume by sixty percent
+lower the sound volume by sixty
+lower the sound volume by seventy percent
+lower the sound volume by seventy
+lower the sound volume by eighty percent
+lower the sound volume by eighty
+lower the sound volume by ninety percent
+lower the sound volume by ninety
+lower the volume by ten percent
+lower the volume by ten
+lower the volume by twenty percent
+lower the volume by twenty
+lower the volume by thirty percent
+lower the volume by thirty
+lower the volume by forty percent
+lower the volume by forty
+lower the volume by fifty percent
+lower the volume by fifty
+lower the volume by sixty percent
+lower the volume by sixty
+lower the volume by seventy percent
+lower the volume by seventy
+lower the volume by eighty percent
+lower the volume by eighty
+lower the volume by ninety percent
+lower the volume by ninety
+lower music volume by ten percent
+lower music volume by ten
+lower music volume by twenty percent
+lower music volume by twenty
+lower music volume by thirty percent
+lower music volume by thirty
+lower music volume by forty percent
+lower music volume by forty
+lower music volume by fifty percent
+lower music volume by fifty
+lower music volume by sixty percent
+lower music volume by sixty
+lower music volume by seventy percent
+lower music volume by seventy
+lower music volume by eighty percent
+lower music volume by eighty
+lower music volume by ninety percent
+lower music volume by ninety
+lower sound volume by ten percent
+lower sound volume by ten
+lower sound volume by twenty percent
+lower sound volume by twenty
+lower sound volume by thirty percent
+lower sound volume by thirty
+lower sound volume by forty percent
+lower sound volume by forty
+lower sound volume by fifty percent
+lower sound volume by fifty
+lower sound volume by sixty percent
+lower sound volume by sixty
+lower sound volume by seventy percent
+lower sound volume by seventy
+lower sound volume by eighty percent
+lower sound volume by eighty
+lower sound volume by ninety percent
+lower sound volume by ninety
+lower volume by ten percent
+lower volume by ten
+lower volume by twenty percent
+lower volume by twenty
+lower volume by thirty percent
+lower volume by thirty
+lower volume by forty percent
+lower volume by forty
+lower volume by fifty percent
+lower volume by fifty
+lower volume by sixty percent
+lower volume by sixty
+lower volume by seventy percent
+lower volume by seventy
+lower volume by eighty percent
+lower volume by eighty
+lower volume by ninety percent
+lower volume by ninety
+turn up the music to max
+turn up the music to maximum
+turn up the music to one hundred
+turn up the sound to max
+turn up the sound to maximum
+turn up the sound to one hundred
+turn up the to max
+turn up the to maximum
+turn up the to one hundred
+turn up music to max
+turn up music to maximum
+turn up music to one hundred
+turn up sound to max
+turn up sound to maximum
+turn up sound to one hundred
+turn up to max
+turn up to maximum
+turn up to one hundred
+raise the music to max
+raise the music to maximum
+raise the music to one hundred
+raise the sound to max
+raise the sound to maximum
+raise the sound to one hundred
+raise the to max
+raise the to maximum
+raise the to one hundred
+raise music to max
+raise music to maximum
+raise music to one hundred
+raise sound to max
+raise sound to maximum
+raise sound to one hundred
+raise to max
+raise to maximum
+raise to one hundred
+increase the music to max
+increase the music to maximum
+increase the music to one hundred
+increase the sound to max
+increase the sound to maximum
+increase the sound to one hundred
+increase the to max
+increase the to maximum
+increase the to one hundred
+increase music to max
+increase music to maximum
+increase music to one hundred
+increase sound to max
+increase sound to maximum
+increase sound to one hundred
+increase to max
+increase to maximum
+increase to one hundred
+turn down the music to min
+turn down the music to minimum
+turn down the sound to min
+turn down the sound to minimum
+turn down the to min
+turn down the to minimum
+turn down music to min
+turn down music to minimum
+turn down sound to min
+turn down sound to minimum
+turn down to min
+turn down to minimum
+reduce the music to min
+reduce the music to minimum
+reduce the sound to min
+reduce the sound to minimum
+reduce the to min
+reduce the to minimum
+reduce music to min
+reduce music to minimum
+reduce sound to min
+reduce sound to minimum
+reduce to min
+reduce to minimum
+decrease the music to min
+decrease the music to minimum
+decrease the sound to min
+decrease the sound to minimum
+decrease the to min
+decrease the to minimum
+decrease music to min
+decrease music to minimum
+decrease sound to min
+decrease sound to minimum
+decrease to min
+decrease to minimum
+lower the music to min
+lower the music to minimum
+lower the sound to min
+lower the sound to minimum
+lower the to min
+lower the to minimum
+lower music to min
+lower music to minimum
+lower sound to min
+lower sound to minimum
+lower to min
+lower to minimum

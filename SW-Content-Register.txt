@@ -1,0 +1,295 @@
+Package: rd-mcu-svui
+Version: RELEASE_2.15_SLN_SVUI_IOT_ACH_R1
+Outgoing License: LA_OPT_Online Code Hosting NXP_Software_License - v1.2 October 2023 
+License file: LICENSE.txt
+Type of content: source code
+Description and comments: i.MX RT106V/C Based Smart Voice User Interface Solution
+Release location: https://github.com/nxp-appcodehub/rd-mcu-svui
+Origin: NXP (proprietary)
+        NXP (BSD-3-Clause)
+        ARM CMSIS 5.8.0 (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
+        ARM Mbed TLS 2.28.5 (Apache-2.0) - https://github.com/ARMmbed/mbedtls/releases/tag/mbedtls-2.28.5
+        Dave Gamble 1.7.7 (MIT) - https://github.com/DaveGamble/cJSON/releases/tag/v1.7.7
+        Little FS (Christopher Haster) 2.4.1 (BSD-3-Clause) - https://github.com/littlefs-project/littlefs
+        PCKS#11 OASIS TC, Amazon v3.5.0 (MIT) - https://github.com/amazon-freertos/pkcs11
+        Intel Corporation TinyCBOR 0.6.0 (MIT) - https://github.com/intel/TinyCBOR
+        Swedish Institute of Computer Science 2024-02-19, branch: master, SHA-1: d0efd9ef7ba08e54b46b1060e2b4629a4907391b (BSD-3-Clause) - http://savannah.nongnu.org/projects/lwip
+        Amazon backoffalgorithm 1.3.0 (MIT) - https://github.com/FreeRTOS/backoffAlgorithm
+        Amazon coreCJSON 3.2.0 (MIT) - https://github.com/FreeRTOS/coreJSON
+        Amazon coreMQTT 2.1.1 (MIT) - https://github.com/FreeRTOS/coreMQTT
+        Amazon coreMQTT-Agent 1.2.0 (MIT) - https://github.com/FreeRTOS/coreMQTT-Agent
+        Amazon corePKCS11 3.5.0 (MIT) - https://github.com/FreeRTOS/corePKCS11
+        Amazon FreeRTOS kernel 11.0.1 (MIT) - https://github.com/FreeRTOS/FreeRTOS-Kernel
+        Amazon AWS IoT Reference Integration 1.3.0 (MIT) - https://github.com/FreeRTOS/iot-reference-nxp-rt1060
+        Amazon AWS IoT Over-the-air Update Library 3.4.0 (MIT) - https://github.com/aws/ota-for-aws-iot-embedded-sdk
+        Amazon FreeRTOS Kernel 11.0.1 (MIT) - https://github.com/FreeRTOS/FreeRTOS-Kernel        
+
+
+cmsis                      Name: CMSIS                                       
+                           Version: 5.8.0                                    
+                           Outgoing License: Apache License 2.0              
+                           License File: sln_svui_iot_aec_demo/CMSIS/LICENSE.txt
+                                         sln_svui_iot_bootloader/CMSIS/LICENSE.txt
+                                         sln_svui_iot_bootstrap/CMSIS/LICENSE.txt
+                                         sln_svui_iot_local_demo/CMSIS/LICENSE.txt 
+                                         sln_svui_iot_hello_world_virtual_com/CMSIS/LICENSE.txt 
+                                         sln_svui_iot_iled_blinky/CMSIS/LICENSE.txt                 
+                           Format: source code                               
+                           Description and comments: Vendor-independent hardware          
+                           abstraction layer for microcontrollers that are   
+                           based on Arm® Cortex® processors, distributed by  
+                           ARM. cores
+                           Release Location: https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0                                                                       
+                           Origin: ARM (Apache-2.0) 
+
+SDK_Components             Name: SDK components and board peripheral drivers 
+                           Version: NA                                       
+                           Outgoing License: BSD-3-Clause                    
+                           License File: COPYING-BSD-3                       
+                           Format: source code                               
+                           Description and comments: SDK components and board peripheral  
+                           drivers, for example, flash and codec drivers.
+                           Release Location: http://mcuxpresso.nxp.com/                                
+                           Origin: NXP (BSD-3-Clause) 
+
+SDK_Peripheral_Driver      Name: SDK Peripheral Driver                       
+                           Version: 2.x.x                                    
+                           Outgoing License: BSD-3-Clause                    
+                           License File: COPYING-BSD-3                       
+                           Format: source code                               
+                           Description: Peripheral drivers are designed for  
+                           the most common use cases identified for the      
+                           underlying hardware block.                        
+                           Release Location: http://mcuxpresso.nxp.com/                
+                           Origin: NXP (BSD-3-Clause)
+
+SDK_Device                 Name: SDK SoC files                               
+                           Version: NA                                       
+                           Outgoing License: BSD-3-Clause                    
+                           License File: COPYING-BSD-3                       
+                           Format: source code, linker files                 
+                           Description: Device system files, template files, 
+                           IDE related startup and linker files.             
+                           Release Location: http://mcuxpresso.nxp.com/                       
+                           Origin: NXP (BSD-3-Clause)  
+
+SDK_Examples               Name: SDK examples                                
+                           Version: NA                                       
+                           Outgoing License: BSD-3-Clause                    
+                           License File: COPYING-BSD-3                       
+                           Format: source code, binary, project files, linker
+                           files                                             
+                           Description: SDK out of box examples to show how  
+                           to use peripheral drivers and integrate           
+                           middleware.                                       
+                           Release Location: http://mcuxpresso.nxp.com/                         
+                           Origin: NXP (BSD-3-Clause) 
+
+usb                        Name: USB                                         
+                           Version: 2.8.2                                    
+                           Outgoing License: BSD-3-Clause                    
+                           License File: COPYING-BSD-3                       
+                           Format: source code                               
+                           Description and comments: NXP USB stack. This is a version of  
+                           the USB stack that has been integrated with the   
+                           MCUXpresso SDK.   
+                           Release Location: http://mcuxpresso.nxp.com/                                                        
+                           Origin: NXP (BSD-3-Clause)    
+
+sdmmc                      Name: SD MMC SDIO Card middleware                 
+                           Version: 2.2.7                                    
+                           Outgoing License: BSC-3-Clause                    
+                           License File: COPYING-BSD-3                       
+                           Format: source code                               
+                           Description and comments: A software component support SD card,
+                           eMMC card, SDIO card.  
+                           Release Location: http://mcuxpresso.nxp.com/                                                   
+                           Origin: NXP (BSD-3-Clause)                        
+   
+mbedtls                    Name: Mbed TLS                                    
+                           Version: 2.28.5                                   
+                           Outgoing License: Apache-2.0                      
+                           License File: sln_svui_iot_bootloader/mbedtls/LICENSE 
+                                         sln_svui_iot_bootstrap/mbedtls/LICENSE  
+                           Format: source code                               
+                           Description and comments: Cryptographic and SSL/TLS Library                  
+                           Release Location: https://github.com/ARMmbed/mbedtls/releases/tag/mbedtls-2.28.5
+                           Origin: ARM (Apache-2.0) 
+
+CJSON                      Name: CJSON                                       
+                           Version: 1.7.7                                    
+                           Outgoing License: MIT                             
+                           License File: sln_svui_iot_bootloader/cjson/LICENSE  
+                                         sln_svui_iot_local_demo/cjson/LICENSE 
+                                         sln_svui_iot_aec_demo/cjson/LICENSE         
+                           Format: source code                               
+                           Description and comments: CJSON - Ultralightweight JSON parser 
+                           in ANSI C                                                               
+                           Release Location: https://github.com/DaveGamble/cJSON/releases/tag/v1.7.7
+                           Origin: Dave Gamble (MIT)                               
+
+LittleFS                   Name: LittleFS                                    
+                           Version: 2.4.1                                    
+                           Outgoing License: BSD-3-Clause                    
+                           License File: sln_svui_iot_bootloader/littlefs/LICENSE.md  
+                                         sln_svui_iot_bootstrap/littlefs/LICENSE.md  
+                                         sln_svui_iot_local_demo/littlefs/LICENSE.md 
+                                         sln_svui_iot_aec_demo/littlefs/LICENSE.md
+                           Format: source code                               
+                           Description and comments: LittleFS - A little fail-safe        
+                           filesystem designed for microcontrollers                              
+                           Release Location: https://github.com/littlefs-project/littlefs
+                           Origin: Little FS (Christopher Haster) (BSD-3-Clause)                                               
+
+VoiceSeekerLight           Name: Voice Seeker                                
+                           Version: 0.6.13                                   
+                           Outgoing License: BSD-3-Clause
+                           License File: COPYING-BSD-3 
+                           Format: Header files                    
+                           Description and comments: Voice Seeker header files                                                        
+                           Origin: NXP (BSD-3-Clause)
+
+VIT_CM7_v04_08_01          Name: VIT CM7                                
+                           Version: 4.8.1.                                   
+                           Outgoing License: BSD-3-Clause
+                           License File: COPYING-BSD-3 
+                           Format: Header files                    
+                           Description and comments: VIT header files
+                           Release Location: http://mcuxpresso.nxp.com/                                                     
+                           Origin: NXP (BSD-3-Clause) 
+
+VIT_CM7_v04_10_00          Name: VIT CM7                                
+                           Version: 4.10.0.                                   
+                           Outgoing License: BSD-3-Clause
+                           License File: COPYING-BSD-3 
+                           Format: Header files                    
+                           Description and comments: VIT header files
+                           Release Location: http://mcuxpresso.nxp.com/                                                     
+                           Origin: NXP (BSD-3-Clause)
+
+VIT_CM7_v06_03_01          Name: VIT CM7
+                           Version: 6.3.1.                                   
+                           Outgoing License: BSD-3-Clause
+                           License File: COPYING-BSD-3 
+                           Format: Header files                    
+                           Description and comments: VIT S2I header files  
+                           Release Location: sln_svui_iot_aec_demo/audi/VIT  
+                           sln_svui_iot_local_demo/audi/VIT                                                
+                           Origin: NXP (BSD-3-Clause)
+
+Cyberon DSMT wrapper       Name: lib_sln_asr.h - wrapper header for Cyberon DSMT lib
+headers                    Version of Cyberon DSMT lib: 2.2.18.0
+                           Outgoing License: BSD-3-Clause
+                           License File: COPYING-BSD-3
+                           Format: Header file
+                           Description and comments: Sln_asr embeds Cyberon DSMT lib.
+                           Origin: NXP (BSD-3-Clause) 
+
+PKCS#11                    Name: PKCS#11
+                           Version: v3.5.0
+                           Outgoing License: MIT
+                           Format: source code
+                           Description and comments: Public Key Cryptography Standard #11
+                           License File: sln_svui_iot_local_demo/pkcs11/LICENSE.md
+                           Release Location: https://github.com/amazon-freertos/pkcs11
+                           Origin: PCKS #11 OASIS TC, Amazon (MIT)
+
+backoffalgorithm           Name: FreeRTOS backoffalgorithm                   
+                           Version: 1.3.0                                    
+                           Outgoing License: MIT                             
+                           License File: sln_svui_iot_local_demo/freertos/LICENSE.md           
+                           Format: source code, header files                 
+                           Description and comments: Algorithm for calculating exponential
+                           backoff with jitter for network retry attempts.   
+                           Release Location: https://github.com/FreeRTOS/backoffAlgorithm         
+                           Origin: Amazon (MIT)                               
+
+corepkcs11                 Name: FreeRTOS corePKCS11                         
+                           Version: 3.5.0                                    
+                           Outgoing License: MIT                             
+                           License File: sln_svui_iot_local_demo/freertos/LICENSE.md
+                           Format: source code, header files                 
+                           Description and comments: PKCS #11 key management library      
+                           Release Location: https://github.com/FreeRTOS/corePKCS11                     
+                           Origin: Amazon (MIT) 
+
+coreMQTT                   Name: coreMQTT Client Library
+                           Version: 2.1.1                              
+                           Outgoing License: MIT                    
+                           License File: sln_svui_iot_local_demo/freertos/LICENSE.md                      
+                           Format: source code                 
+                           Description and comments: coreMQTT library that has been optimized for a low memory footprint, compliant with MQTT 3.1.1
+                           Release Location: https://github.com/FreeRTOS/coreMQTT
+                           Origin: Amazon (MIT)
+
+coreMQTT-agent             Name: FreeRTOS coreMQTT agent                     
+                           Version: 1.2.0                                    
+                           Outgoing License: MIT                             
+                           License File: sln_svui_iot_local_demo/freertos/LICENSE.md
+                           Format: source code, header files                 
+                           Description and comments: The coreMQTT Agent library is a high 
+                           level API that adds thread safety to the coreMQTT 
+                           library.                                          
+                           Release Location: https://github.com/FreeRTOS/coreMQTT-Agent              
+                           Origin: Amazon (MIT)                              
+
+coreJSON                   Name: FreeRTOS coreJSON                           
+                           Version: 3.2.0                                    
+                           Outgoing License: MIT                             
+                           License File: sln_svui_iot_local_demo/freertos/LICENSE.md        
+                           Format: source code                
+                           Description: JSON parser                          
+                           Release Location: https://github.com/FreeRTOS/coreJSON               
+                           Origin: Amazon (MIT)                              
+
+lwip                       Name: lwIP TCP/IP Stack 
+                           Version: lwIP git repository (2024-02-19, branch: 
+                           master, SHA-1:                                    
+                           d0efd9ef7ba08e54b46b1060e2b4629a4907391b)
+                           Outgoing License: BSD-3-Clause
+                           Format: source code
+                           Description and comments: A light-weight TCP/IP stack  
+                           License File: sln_svui_iot/lwip/COPYING
+                           Release Location: http://savannah.nongnu.org/projects/lwip
+                           Origin: Swedish Institute of Computer Science (BSD-3-Clause)
+
+tinycbor                   Name: TinyCBOR                                    
+                           Version: 0.6.0                                    
+                           Outgoing License: MIT                             
+                           License File: sln_svui_iot_local_demo/tinycbor/LICENSE         
+                           Format: source code                               
+                           Description and comments: TinyCBOR                             
+                           Release Location: https://github.com/intel/TinyCBOR                      
+                           Origin: Intel Corporation (MIT)                                                  
+
+iot_reference              Name: AWS IoT Reference Integration               
+                           Version: 1.3.0                                    
+                           Outgoing License: MIT                             
+                           License File: sln_svui_iot_local_demo/aws_iot/iot-reference/LICENSE          
+                           Format: source code, header files                 
+                           Description and comments: AWS IoT Reference Integration        
+                           Release Location: https://github.com/FreeRTOS/iot-reference-nxp-rt1060        
+                           Origin: Amazon (MIT)  
+
+ota                        Name: AWS IoT Over-the-air Update Library         
+                           Version: 3.4.0                                    
+                           Outgoing License: MIT                             
+                           License File: sln_svui_iot/aws_iot/ota/LICENSE      
+                           Format: source code, header files                 
+                           Description and comments: Client library for using the AWS     
+                           Over-the-air Update service on embedded devices.  
+                           Release Location: https://github.com/aws/ota-for-aws-iot-embedded-sdk                
+                           Origin: Amazon (MIT)    
+
+freertos-kernel            Name: FreeRTOS kernel                             
+                           Version: 11.0.1                                   
+                           Outgoing License: MIT                             
+                           License File: sln_svui_iot_aec_demo/freertos/LICENSE.md
+                                         sln_svui_iot_bootloader/freertos/LICENSE
+                                         sln_svui_iot_bootstrap/freertos/LICENSE
+                                         sln_svui_iot_local_demo/freertos/LICENSE.md           
+                           Format: source code                               
+                           Description and comments: Open source RTOS kernel for small    
+                           devices                                           
+                           Release Location: https://github.com/FreeRTOS/FreeRTOS-Kernel           
+                           Origin: Amazon (MIT)             

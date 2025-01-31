@@ -7,7 +7,7 @@
 /* Application version */
 #define APP_MAJ_VER                    0x02
 #define APP_MIN_VER                    0x00
-#define APP_BLD_VER                    0x0000
+#define APP_BLD_VER                    0x0003
 
 /* Define this to 1 when building for reference design (16 MB flash)
  * Otherwise the project assumes flash size is 32 MB */
@@ -15,8 +15,8 @@
 
 /* Choose the ASR engine: DSMT, VIT or S2I */
 #define ENABLE_DSMT_ASR                0
-#define ENABLE_VIT_ASR                 0
-#define ENABLE_S2I_ASR                 1
+#define ENABLE_VIT_ASR                 1
+#define ENABLE_S2I_ASR                 0
 
 #if ENABLE_DSMT_ASR
 /* Set USE_DSMT_EVALUATION_MODE to 1 when using DSMT evaluation library.

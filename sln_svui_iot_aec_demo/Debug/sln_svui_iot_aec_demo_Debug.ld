@@ -1,11 +1,12 @@
 /*
  * GENERATED FILE - DO NOT EDIT
  * Copyright 2008-2013 Code Red Technologies Ltd,
- * Copyright 2013-2024 NXP
+ * Copyright 2013-2025 NXP
+ * SPDX-License-Identifier: BSD-3-Clause
  * Generated linker script file for MIMXRT1062xxxxB
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.30
- * MCUXpresso IDE v11.10.0 [Build 3148] [2024-07-03] on Oct 24, 2024, 2:58:28 PM
+ * MCUXpresso IDE v24.12 [Build 148] [2025-01-10] on Jan. 30, 2025, 10:39:03 p.m.
  */
 
 INCLUDE "sln_svui_iot_aec_demo_Debug_library.ld"

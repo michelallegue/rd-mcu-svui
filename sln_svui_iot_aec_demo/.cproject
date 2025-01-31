@@ -370,6 +370,7 @@
 								<option id="gnu.c.link.option.noshared.1547613215" name="No shared libraries (-static)" superClass="gnu.c.link.option.noshared" useByScannerDiscovery="false"/>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.link.option.libs.1301937342" name="Libraries (-l)" superClass="gnu.c.link.option.libs" useByScannerDiscovery="false" valueType="libs">
 									<listOptionValue builtIn="false" value="streamer"/>
+									<listOptionValue builtIn="false" value="sln_asr_evaluation"/>
 									<listOptionValue builtIn="false" value="wavdec"/>
 									<listOptionValue builtIn="false" value="mp3dec"/>
 									<listOptionValue builtIn="false" value="opusdec"/>
@@ -381,9 +382,8 @@
 									<listOptionValue builtIn="false" value="ccimeta"/>
 									<listOptionValue builtIn="false" value="sln_dsp_toolbox"/>
 									<listOptionValue builtIn="false" value="PdmConvertForRt10xx"/>
-									<listOptionValue builtIn="false" value="VIT_CM7_Production_v06_03_01"/>
+									<listOptionValue builtIn="false" value="VIT_CM7_v04_10_00"/>
 									<listOptionValue builtIn="false" value="arm_cortexM7lfdp_math"/>
-									<listOptionValue builtIn="false" value="sln_asr_production"/>
 								</option>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.link.option.paths.15110971" name="Library search path (-L)" superClass="gnu.c.link.option.paths" useByScannerDiscovery="false" valueType="libPaths">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/libs}&quot;"/>

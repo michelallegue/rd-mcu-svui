@@ -1,0 +1,31 @@
+Package: Smart Voice User Interface (SVUI)
+Version: sln_svui_iot_R2_RC5
+Outgoing License: LA_OPT_NXP_Software_License v56 April 2024 - No distribution permitted, Section 2.2 applies
+License file: LICENSE.txt
+Type of content: binary
+Description and comments: NXP's libsln_asr evaluation mode, based on Cyberon DSMT
+Release location: nxp.com
+Origin: NXP (proprietary)
+	Cyberon (proprietary)
+                       
+
+sln_asr_evaluation         Name: Evaluation ASR based on Cyberon DSMT
+                           Version: 1.0.0                                    
+                           Outgoing License: Proprietary. See
+                           LA_OPT_NXP_Software_License v56 April 2024 - No distribution permitted, Section 2.2 applies
+                           License File: LICENSE.txt     
+                           Format: Binary                                    
+                           Description and comments: Evaluation Automatic Speech Recognition. Must be used with RT106V MCU only.
+                           Must be used for evaluation only and not for production.
+                           Origin: NXP (proprietary)
+
+
+Cyberon DSMT               Name: DSMT evaluation lib for ASR
+                           Version: 2.2.18.0
+                           Outgoing License: Proprietary. See
+                           LA_OPT_NXP_Software_License v56 April 2024 - No distribution permitted, Section 2.2 applies
+                           License File: LICENSE.txt
+                           Format: Binary
+                           Description and comments: DSMT evaluatuon lib for ASR
+                           recognition. Embedded in sln_asr.
+                           Origin: Cyberon (proprietary)

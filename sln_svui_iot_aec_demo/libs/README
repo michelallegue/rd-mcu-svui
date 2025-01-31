@@ -1,0 +1,2 @@
+libsln_asr_evaluation.a must be used for evaluation only and only on Smart Voice dev kit based on RT106V.
+For production, RT106C and libsln_asr_production.a should be used.

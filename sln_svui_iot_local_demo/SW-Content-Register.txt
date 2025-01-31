@@ -1,0 +1,85 @@
+Package: sln_svui_iot_libs.zip
+Version: RELEASE_2.15_SLN_SVUI_IOT_R1
+Outgoing License: LA_OPT_NXP_Software_License v57 July 2024 - Additional Distribution Use, Section 2.3 applies
+License file: LICENSE.txt
+Type of content: binary
+Description and comments: Collection of NXP propriatary and third party based libs, needed for sln-svui-iot projects.
+Release location: nxp.com/mcu-svui
+Origin: NXP (proprietary)
+        NXP (BSD-3-Clause)
+        ARM CMSIS 5.6.0 (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.6.0 
+        ARM CMSIS 5.0.4 (Apache-2.0) - https://github.com/ARM-software/CMSIS_5
+
+
+VIT_CM7_v06_03_01          Name: libVIT_CM7_Production_v06_03_01.a
+                           Version: v6.3.1
+                           Outgoing License: Proprietary. See
+                           LA_OPT_NXP_Software_License v57 July 2024 - Additional Distribution Use, Section 2.3 applies
+                           License File: LICENSE.txt  
+                           Format: Precompiled libraries                   
+                           Description and comments: Cortex-M7 Voice Intelligent Technology
+                           library : VIT Wakeword and Speech To Intent                                                         
+                           Origin: NXP - VATEC (proprietary)
+                                   NXP - VATEC (BSD-3-Clause)
+
+VIT_CM7_v04_08_01          Name: libVIT_CM7_v04_08_01.a                               
+                           Version: 4.8.1.                                   
+                           Outgoing License: Proprietary. See
+                           LA_OPT_NXP_Software_License v57 July 2024 - Additional Distribution Use, Section 2.3 applies
+                           License File: LICENSE.txt  
+                           Format: Binary                    
+                           Description and comments: VIT library                                                         
+                           Origin: NXP (proprietary)
+
+VIT_CM7_v04_10_00          Name: libVIT_CM7_v04_10_00.a                              
+                           Version: 4.10.0.                                   
+                           Outgoing License: Proprietary. See
+                           LA_OPT_NXP_Software_License v57 July 2024 - Additional Distribution Use, Section 2.3 applies
+                           License File: LICENSE.txt  
+                           Format: Binary                    
+                           Description and comments: VIT library                                                           
+                           Origin: NXP (proprietary)
+
+CMSIS                      Name: CMSIS (libarm_cortexM7lfdp_math.a)(?)
+                           Version: 5.6.0
+                           Outgoing License: Apache License 2.0
+                           License File: CMSIS_LICENSE.txt
+                           Format: Binary
+                           Description and comments: Vendor-independent hardware
+                           abstraction layer for microcontrollers that are
+                           based on Arm Cortex processors, distributed by
+                           ARM. cores
+                           Release Location: https://github.com/ARM-software/CMSIS_5/releases/tag/5.6.0 
+                           Origin: ARM (Apache-2.0) 
+
+Voice Seeker               Name: libvoiceseeker.a
+                           Version: 0.6.13
+                           Outgoing License: Proprietary. See
+                           LA_OPT_NXP_Software_License v57 July 2024 - Additional distribution license granted - Section 2.3 applies
+                           License File: LICENSE.txt
+                           Format: Binary
+                           Description and comments: Multi-microphone audio-front-end with acoustic echo cancellation.
+                           Origin: NXP (proprietary)
+                                   ARM CMSIS 5.0.4 (Apache-2.0) - https://github.com/ARM-software/CMSIS_5
+
+sln_asr_production         Name: libsln_asr_production.a - Production ASR based on Cyberon DSMT
+                           Version: 1.0.0
+                           Outgoing License: Proprietary. See
+                           LA_OPT_NXP_Software_License v57 July 2024 - Additional Distribution Use, Section 2.3 applies
+                           License File: LICENSE.txt     
+                           Format: Binary
+                           Description and comments: Production Automatic Speech Recognition. Must be used with RT106C MCU only.
+                           Origin: NXP (proprietary)   
+
+
+Cyberon DSMT               Name: Cyberon DSMT ASR
+                           Version: 2.2.18.0
+                           Outgoing License: Proprietary. See
+                           LA_OPT_NXP_Software_License v57 July 2024 - Additional Distribution Use, Section 2.3 applies
+                           License File: LICENSE.txt
+                           Format: Binary
+                           Description and comments: DSMT production lib for ASR
+                           recognition. Embedded in sln_asr.
+                           Origin: Cyberon (proprietary)
+
+
